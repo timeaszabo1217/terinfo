@@ -1,0 +1,2 @@
+# terinfo
+Térinformatika kurzus projektmunkája
